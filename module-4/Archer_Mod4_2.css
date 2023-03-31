@@ -1,0 +1,42 @@
+.image-gallery {
+	display: grid;
+	grid-template-columns: auto auto auto;
+	border-style: solid;
+	border-color: red;
+	border-width: 5px;
+	border-radius: 15px;
+	gap: 5px;
+}
+.gallery-itemL {
+	border-style: none solid none none;
+	border-color: red;
+	border-width: 5px;
+}
+.gallery-itemM {
+	border-style: none solid none none;
+	border-color: red;
+	border-width: 5px;
+}
+h1 {
+	text-align: center;
+	color: rgba(168, 80, 50, 1.0);
+}
+h3 {
+	text-align: center;
+	color: rgba(50, 98, 168, 1.0);
+}
+figure { 
+	text-align: center ;
+	color: rgba(69, 161, 89, 1.0);
+
+}
+figcaption { 
+	font-style: italic;
+	font-size: .75em;
+}
+a:hover { text-decoration: underline; }
+.bottom {
+	float: right;
+	margin-bottom: 20px;
+	padding-top: 100px;
+}
