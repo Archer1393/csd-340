@@ -1,6 +1,6 @@
 # csd-340
 HTML &amp; CSS Class
-# H1 "CSD 340 Web Development with HTML and CSS"
-## H2 "Contributors"
+# "CSD 340 Web Development with HTML and CSS"
+## "Contributors"
   * Matthew Archer
   * Professor Cristy Cross
