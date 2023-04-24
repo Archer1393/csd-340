@@ -1,0 +1,82 @@
+<!-- Matthew Archer, Module 9.3 -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>CSD 340 Development with HTML and CSS</title>
+	<meta name="Author"
+		content="Matthew Archer"/>
+	<meta name="University Name"
+		content="Bellevue University"/>
+	<meta name="Favorite hobby"
+		content="Bowling"/>
+	<meta name="New Job"
+		content="Dollar General"/>
+	<link href="assignment-2.2/Archer_Mod2_2.css" type="text/css
+		rel="stylesheet"/>
+	<style>
+		div.a { text-indent: 50px; }
+	</style>
+
+	<script>
+		var firstVar = "Centerville";
+		var secondVar = "Iowa";
+		var thirdVar = "Las Vegas";
+		var fourthVar = "Bellevue University of Nebraska";
+	</script>
+</head>
+
+<body>
+<h1> Assignment 9.3: JavaScript - Part 1 </h1>
+<h2> Chapter 9.3: HTML & CSS featuring span tags</h2>
+
+	<p> Matthew is a character born in <span id = "Centerville"> ___________ </span>, Iowa and raised from his parents Joanna Davis,
+		and Dustin Archer until he was 3 1/2 years old. While growing up in Iowa he had a fantastic and
+		prosperous life. He and his brother Michael made many friends and had all of his family surrounding
+		them in various towns throughout <span id = "Iowa"> ____ </span>. Once he reached that age he moved to Las Vegas,
+		Nevada with his mother Joanna to move in with his Grandmother Kitty Davis. </p>
+
+		<hr>
+
+		Once Matthew and his family landed in <span id = "Las Vegas"> _________ </span> they began to adapt to the bigger city lifestyle.
+		There are so many opportunites, people to meet, jobs to acquire (for his mother), schools to choose
+		from, and activities to attend to. Once they chose from this list, they began their journey as regular
+		people in the desert, believe it or not.
+
+		<hr>
+
+		Many years down the road, Matthew has come to the end of his High School career. He graduates with an
+		average GPA, takes 2 years off of school, then finally enrolls in the University of Nevada Las Vegas.
+		Here he attends class as a photography major but then soon realizes that he needs to change to something
+		more lucerative and something that he loves more: Computer Science.	He changes his degree to Bachelor of 
+		Science Computer Science. Many years later of trials and tribulations he ends up where he is now at 
+		<span id = "Bellevue University of Nebraska"> _______________________________ </span>.
+
+		<p>
+			<button type = "button"
+				onclick = "document.getElementById('Centerville').innerHTML = firstVar"></button></br>
+		</p>
+
+		<p>
+			<button type = "button"
+				onclick = "document.getElementById('Iowa').innerHTML = secondVar"></button></br>
+		</p>
+
+		<p>
+			<button type = "button"
+				onclick = "document.getElementById('Las Vegas').innerHTML = thirdVar"></button></br>
+		</p>
+
+		<p>
+			<button type = "button"
+				onclick = "document.getElementById('Bellevue University of Nebraska').innerHTML = fourthVar"></button></br>
+		</p>
+
+		<hr>
+<hr>
+
+<address>
+ <p class="tab"> <a href="https://www.bellevue.edu/">Bellevue University </a></p>
+<p> 1000 Galvin Road South </p>
+<p> Bellevue, NE 68005 </p>
+</address>
+</html>
