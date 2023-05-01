@@ -1,0 +1,45 @@
+// Color Palette
+- Prussian Blue #003049
+- Fire Engine Red #D62828
+- Orange (wheel) #F77F00
+- Xanthous #FCBF49
+- Vanilla #EAE2B7
+
+// Wireframes, Sketches of website
+... Insert here ...
+
+// Interview Questions
+1. What is your name?
+	A. Dustin Todd Archer
+2. Where were you born?
+	A. Red Oak, Iowa
+3. Who are the special people in your life?
+	A. My two children, husband.
+4. Something you wish you were better at?
+	A1 (regarding job). The RAI process (Resident Assessment Instrument process), recently certified in, although being recently certified there are many things to still learn and wishes he knew more about it but learning as he goes.
+	A2 (in general). Handling situations in a more thought out process rather than jumping to conclusions.
+5. Who is your hero?
+	A. My dad. He was very level headed and was able to take the time to process issues and identify potential causes and identify multiple solutions.
+6. If you could live anywhere, where would it be?
+	A. A warmer climate than Iowa, where still able to partake in my hobby of gardening. No where specific but definitely not the desert. Tropical is possible.
+7. Is your glass half full, or half empty? Why?
+	A. My glass is half full. I have accomplished many things, i have a lot of good things going for me but still have many goals to achieve that i am currently working on. I feel that in my current situation i will be able to accomplish my future goals to make my glass full.
+8. What is your biggest fear?
+	A. I would have to say making a mistake and losing what I have already accomplished.
+9. What is the craziest thing you've done for love?
+	A. Move half way across the country for someone that I did not know that well.
+10. Is it ever okay to lie? Why?
+	A. In certain circumstances, yes it is okay to lie but in others it is not okay to lie. It really 	depends on the situation and if you tell the truth at the wrong time the results could be more 	devestating than a different situation. Only in very minimal circumstances and to preserve the 	stability of someone.
+11. What is your best accompishment to date?
+	A. Taking on the roll of Director of Nursing at Glenhaven Village at a not stable time in my life 	but still putting in the time and effort to make it a stable, well functioning facility. Using my 	28 years of nursing to be the support of this accomplishment. Moving the facility beyond the 	standards of generalized standard of expectations.
+12. What is your favorite hobby(s)?
+	A. Baking, Challenging myself on something I've never baked before, Improvements, Embellishing the baked goods
+
+// One page write-up for About page
+... Insert here ...
+- Grew up in Iowa, Red Oak High School, Got into nursing because of my moms mom (gma kitty). Nursing program 1993 Indian Hills Community College Centerville, IA, LPN 1994, RN 1995, Work in several different areas of nursing throughout career: ER Nursing, Medical/Surgical Nursing, IN Center Hemo Dialysis, Home Peritonel Nursing, Homehealth, Hospice, Drug and Alcohol Detox and Rehab, Long-term care, Acute Rehab, DON at Glenhaven Village, Administrator of Nursing at ICF/ID Facility ran by state of Iowa and DON of Acute Longterm care at rehab facility. Hobbies: cooking, baking, gardening (learning from father), sowing, ebroiderring. Learned computers on Comador 64 (first PC's) and how to program a little program from Mom and Uncle Jesse. Traits: family oriented, funny, outgoing, charasmatic, loving, educated. Lived: pittsburgh, las vegas, red oak.
+
+// 7 images
+- 3 related to subjects hobbies
+- 3 related to subjects goals, personal accomplishments, or embellishments
+- 1 portrait of the subject
