@@ -1,0 +1,51 @@
+<!--Matthew Archer, Module 10.3-->
+
+<DOCTYPE! html>
+<html lang="en">
+<head>
+    <title> CSD 340 Development with HTML and CSS</title>
+    <script>
+        function displayImage(imageFile){
+            var largerImage = document.getElementById("mainImage");
+            var newNode = document.createElement("img");
+            newNode.id = "mainImage";
+            newNode.src = imageFile;
+            newNode.alt = "large Image";
+            newNode.className = "mainImage";
+            newNode.style.width = "300px";
+            newNode.style.height = "200px";
+            largerImage.parentNode.replaceChild(newNode, largerImage);
+        }
+    </script>
+    <link rel="stylesheet" type="text/css" href="site.css">
+</head>
+
+<body>
+    <h1>Assignment 10.3: JavaScript - Part 2</h1>
+    <br>
+
+    <div>
+        <a href="#" onmouseover="mustang.src='mustang_01.jpg';" onmouseout="mustang.src='mustang_02.jpg';">
+        <img border="0" name="mustang" src="mustang_02.jpg">
+        </a>
+    </div>
+
+    <div onmouseover="this.style.color='red';" onmouseout="this.style.color='black';" style="color: black;">
+        "Run your mouse over the image to change."
+        <br>
+    </div>
+
+    <div>
+        <a href="#" onmouseover="razer.src='razer_01.jpg';" onmouseout="razer.src='razer_02.jpg';">
+        <img border="0" name="razer" src="razer_02.jpg">
+        </a>
+    </div>
+
+    <div onmouseover="this.style.color='red';" onmouseout="this.style.color='black';" style="color: black;">
+        "Run your mouse over the image to change."
+        <br>
+        "Right-click and select View Source for more details."
+    </div>
+</body>
+
+</html>
